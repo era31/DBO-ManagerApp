@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Rp_btn btn-primary</name>
+   <tag></tag>
+   <elementGuidId>fca26f5a-7327-4482-9411-7fcae0374538</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div[2]/div/div[2]/div[2]/div/div/table/tbody/tr/td[12]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>40d00922-2c42-4363-8f10-db936c22da33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>9e5bf933-c3ec-4873-afe0-47b791861360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>d895c793-8ec7-4c52-af22-d876a9282942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;katalog&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;panel panel-danger&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[1]/td[12]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>0bd36ba9-3818-45bb-9837-e2e112c1c76e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div[2]/div/div[2]/div[2]/div/div/table/tbody/tr/td[12]/a</value>
+      <webElementGuid>28556058-70ef-4671-94af-1ae0246a140e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(lbr)'])[1]/following::a[1]</value>
+      <webElementGuid>f5812cdd-33c8-45d3-bf84-fe0d498b8492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Djabesmen'])[3]/preceding::a[1]</value>
+      <webElementGuid>f9f6aba9-4c54-4954-9061-e1c74413eb78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Djabes 11'])[2]/preceding::a[1]</value>
+      <webElementGuid>017eacb1-3eea-4c56-9e02-ebab96b4a876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[5]</value>
+      <webElementGuid>bd05d160-5791-4387-a1ea-7140b9651092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[12]/a</value>
+      <webElementGuid>89723acd-6bda-483e-a343-6508c4b98551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;']</value>
+      <webElementGuid>98aa82f8-a853-4a31-a0cd-8d2fcc8f1d7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

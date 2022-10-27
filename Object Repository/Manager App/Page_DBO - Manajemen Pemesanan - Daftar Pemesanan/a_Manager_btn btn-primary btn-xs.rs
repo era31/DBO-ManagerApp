@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manager_btn btn-primary btn-xs</name>
+   <tag></tag>
+   <elementGuidId>f6e280b4-fdda-46c8-a939-e3f82e371cf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table-demo']/tbody/tr/td[11]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>272608d1-3cea-4d33-b770-0a9927e574b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/agent/delivery-orders/create-delivery-order/OA0101221027A2GTV5</value>
+      <webElementGuid>971f7867-3273-4625-beb9-ab3bae7eaddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-xs </value>
+      <webElementGuid>2ffafcef-ce8c-42ca-b5f3-403613c2adcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show/Edit</value>
+      <webElementGuid>b26d0e38-7568-4750-a384-4fde9fac13ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button</name>
+      <type>Main</type>
+      <value>show</value>
+      <webElementGuid>24f49fa7-389e-4f7c-87c7-7f39560eae10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table-demo&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[11]/a[@class=&quot;btn btn-primary btn-xs&quot;]</value>
+      <webElementGuid>5bfeba16-4c68-43b0-b14d-8b91bf5ac518</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table-demo']/tbody/tr/td[11]/a</value>
+      <webElementGuid>9e7ff2a1-318f-4e17-9bcc-bd1e9102600c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/following::a[1]</value>
+      <webElementGuid>c189422b-91a4-42c6-a7c4-788540d2620a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::a[1]</value>
+      <webElementGuid>80a89656-46e5-426d-8701-94e69f371e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[2]/preceding::a[2]</value>
+      <webElementGuid>76236270-dca9-4558-a328-1095e1c4a61f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OA01012210274CQDA8'])[1]/preceding::a[2]</value>
+      <webElementGuid>a316a430-381f-44ab-bed4-cd3928ad7e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/agent/delivery-orders/create-delivery-order/OA0101221027A2GTV5')]</value>
+      <webElementGuid>46b4b03e-4966-420b-92ec-43f35c655fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]/a</value>
+      <webElementGuid>45f19af1-7c34-49bb-bcec-5749933cc72e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/agent/delivery-orders/create-delivery-order/OA0101221027A2GTV5' and @title = 'Show/Edit']</value>
+      <webElementGuid>214f27f1-6bbc-4cd8-94e5-8f7a99694747</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

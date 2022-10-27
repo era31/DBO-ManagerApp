@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Process</name>
+   <tag></tag>
+   <elementGuidId>14ade344-e0ee-4ebc-b621-41ec29c47589</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div[2]/div[2]/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.pull-right > a.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7aba1ce3-5df6-4df7-a904-503eb608d316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>fffc138d-fcf6-45d3-99ba-ac3b7b26fcde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>4f993b2a-36b6-4898-8a09-4a03c16a06d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Process
+                    </value>
+      <webElementGuid>298fb83b-1711-4cae-8859-04c196dc2d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;katalog&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;box no-border&quot;]/div[@class=&quot;pull-right&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>c3efbebb-b338-4ece-a9b1-89669ab5787b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div[2]/div[2]/div/a[2]</value>
+      <webElementGuid>ea38affa-497b-4d5c-b29f-25d745c6868e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Process')]</value>
+      <webElementGuid>aed69859-5323-425e-b7d9-0f795675083e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::a[1]</value>
+      <webElementGuid>a66a66e4-438c-458c-bced-8ac677c3d866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp.'])[28]/following::a[2]</value>
+      <webElementGuid>22fbff49-e016-4f2b-abb8-79e5486fa823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version'])[1]/preceding::a[1]</value>
+      <webElementGuid>15380ed5-68bd-4b4c-ad7e-177207065467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Process']/parent::*</value>
+      <webElementGuid>63e29dda-67a8-4850-ab9d-74c49a8df762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[62]</value>
+      <webElementGuid>02255065-87cb-4e24-ac28-74cb89781d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>3671bc27-e12e-47fe-8766-47552a33ca06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and (text() = '
+                        Process
+                    ' or . = '
+                        Process
+                    ')]</value>
+      <webElementGuid>fd6061ca-866c-4efc-90b7-44a80f9121e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_See More_user-image</name>
+   <tag></tag>
+   <elementGuidId>33176a92-c646-4580-be89-2aae17a4dcc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Ginda MU']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.user-image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>cc42116b-2fdd-467a-a054-e3a7a313da9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://mngr.dbo.id/images/avatars/0f321414a918c5fa48efd1b1eb8b3698.jpg</value>
+      <webElementGuid>44216278-8dfe-4a52-9c48-a8443311c6dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-image</value>
+      <webElementGuid>4bc8c194-e26c-471c-852b-2a5f8f8751d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Ginda MU</value>
+      <webElementGuid>6f6bc15e-7bc8-4e18-8a3b-6f3647a467c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-black sidebar-mini      pace-done&quot;]/div[@class=&quot;wrapper&quot;]/header[@class=&quot;main-header&quot;]/nav[@class=&quot;navbar navbar-static-top&quot;]/div[@class=&quot;navbar-custom-menu&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown user user-menu&quot;]/a[@class=&quot;dropdown-toggle&quot;]/img[@class=&quot;user-image&quot;]</value>
+      <webElementGuid>be969f00-978a-4649-bc4c-1b5e23e7ab9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Ginda MU']</value>
+      <webElementGuid>ffe8e33a-b1b5-45a6-a992-eda01e76ab49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>2ac9b85d-fc02-4985-9711-551ddd4eebcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://mngr.dbo.id/images/avatars/0f321414a918c5fa48efd1b1eb8b3698.jpg' and @alt = 'Ginda MU']</value>
+      <webElementGuid>c9c4f342-bdb6-40f9-a0c7-80ab77d0e5ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
