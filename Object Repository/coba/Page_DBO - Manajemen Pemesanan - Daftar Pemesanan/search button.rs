@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search button</name>
+   <tag></tag>
+   <elementGuidId>fedfc390-b441-4b2c-9c62-64831011e676</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='table-demo_filter']/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-6.ph-4 > button.btn.btn-block.btn-rounded.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dc0b1fca-7f06-4642-a097-a990ff2e71f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block btn-rounded btn-primary</value>
+      <webElementGuid>9387e112-04bc-4dfc-86b1-b0b05a0d5d70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>4c1a0277-d4a1-4fad-afad-91156ca38895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table-demo_filter&quot;)/div[1]/div[@class=&quot;col-xs-6 ph-4&quot;]/button[@class=&quot;btn btn-block btn-rounded btn-primary&quot;]</value>
+      <webElementGuid>e97abf33-0cfd-4969-b185-09ca69516154</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='table-demo_filter']/div/div/button</value>
+      <webElementGuid>568cb5ed-3871-44ef-aed1-02bab9e12e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/following::button[1]</value>
+      <webElementGuid>0c3ae633-5b3b-4056-8206-2afc07ce93c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='clear'])[1]/preceding::button[1]</value>
+      <webElementGuid>9286582b-d37a-44a1-bd6d-6a92b7fbcfed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::button[2]</value>
+      <webElementGuid>2e0e4da5-f607-43c1-869f-ff3d001b4d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='search']/parent::*</value>
+      <webElementGuid>671b8a6b-07d7-426d-8520-ee65c4edbe54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/div/button</value>
+      <webElementGuid>5ba09bc4-da10-4ef6-a188-d27b4a2149af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'search' or . = 'search')]</value>
+      <webElementGuid>437232cf-944b-4e92-b444-c0cb3115f9d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

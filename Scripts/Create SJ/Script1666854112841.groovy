@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://mngr.dbo.id/')
 
+WebUI.maximizeWindow()
+
 WebUI.waitForElementPresent(findTestObject('Object Repository/Manager App/Page_DBO - Login/input_MASUK_email'), 10)
 
 WebUI.setText(findTestObject('Object Repository/Manager App/Page_DBO - Login/input_MASUK_email'), 'ginda.manager@dbo.id')
@@ -33,14 +35,18 @@ WebUI.click(findTestObject('Object Repository/Manager App/Page_DBO - Login/input
 
 WebUI.click(findTestObject('Object Repository/Manager App/Page_DBO - Dasbor/span_Manajemen Pemesanan'))
 
-WebUI.click(findTestObject('Object Repository/Manager App/Page_DBO - Dasbor/span_Manajemen Pemesanan'))
+WebUI.click(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/button_Advance Filter'))
 
-WebUI.click(findTestObject('Object Repository/Manager App/Page_DBO - Dasbor/span_Manajemen Pemesanan'))
+WebUI.setText(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/input_Kode Toko_store_code'), '2207000702')
 
-WebUI.click(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/a_Manager_btn btn-primary btn-xs'))
+WebUI.selectOptionByIndex(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/status order'), 3)
+
+WebUI.click(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/button_Cari'))
+
+WebUI.click(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/edit button'))
 
 WebUI.setText(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan/input_Rp 22.200,00_form-control delivery-qty'), 
-    '21')
+    '1')
 
 WebUI.setText(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan/input_Nomor Surat Jalan_sjRefNumber'), 
     'OA0101221027A2GTV5')
@@ -48,7 +54,14 @@ WebUI.setText(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat 
 WebUI.click(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan/input_Tanggal Surat Jalan_sjRefDate'), 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan/td_27'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.sendKeys(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan/input_Tanggal Surat Jalan_sjRefDate'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.sendKeys(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan/input_Tanggal Surat Jalan_sjRefDate'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.sendKeys(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan/input_Tanggal Surat Jalan_sjRefDate'), 
+    Keys.chord(Keys.ESCAPE))
 
 WebUI.click(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan/input_Nama Supir_supir'), FailureHandling.STOP_ON_FAILURE)
 
