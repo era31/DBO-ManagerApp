@@ -37,19 +37,21 @@ WebUI.click(findTestObject('Object Repository/Manager App/Page_DBO - Dasbor/span
 
 WebUI.click(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/button_Advance Filter'))
 
-WebUI.setText(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/input_Kode Toko_store_code'), '2207000702')
+WebUI.setText(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/input_Kode Toko_store_code'), '2006000244')
 
-WebUI.selectOptionByIndex(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/status order'), 3)
+WebUI.selectOptionByIndex(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/status order'), 1)
 
 WebUI.click(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/button_Cari'))
 
 WebUI.click(findTestObject('coba/Page_DBO - Manajemen Pemesanan - Daftar Pemesanan/edit button'))
 
-WebUI.setText(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan/input_Rp 22.200,00_form-control delivery-qty'), 
+WebUI.click(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan (1)/a_Approve'))
+
+WebUI.setText(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan (1)/input_Rp 2.148.000,00_form-control delivery-qty'), 
     '1')
 
 WebUI.setText(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan/input_Nomor Surat Jalan_sjRefNumber'), 
-    'OA0101221027A2GTV5')
+    'OC0101221101OT328M')
 
 WebUI.click(findTestObject('Manager App/Page_DBO - Manajemen Pemesanan - Buat Surat Jalan/input_Tanggal Surat Jalan_sjRefDate'), 
     FailureHandling.STOP_ON_FAILURE)
